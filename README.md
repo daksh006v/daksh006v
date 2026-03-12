@@ -1,8 +1,8 @@
+<h1 align="center">DAKSH BAJANIYA</h1>
+
+<h3 align="center"><em>"Living life of a strawhat with my own ninjaway"</em> 🥷🏴‍☠️</h3>
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=700&size=45&pause=2000&color=00B4D8&center=true&vCenter=true&width=800&height=80&lines=DAKSH+BAJANIYA" alt="Daksh Bajaniya" />
-  
-  <h2><em>"Living life of a strawhat with my own ninjaway"</em> 🥷🏴‍☠️</h2>
-  
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Bridging+Design+and+Logic;Creative+Thinker;Code+is+Art" alt="Typing Roles" />
   </a>
@@ -73,5 +73,5 @@ My approach to development is a mix of strategic thinking and raw creativity. Wh
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/b_8-gM2zD4QAAAAC/luffy-happy.gif" width="160" alt="Happy Luffy" />
+  <img src="https://media.giphy.com/media/1W40UWS9peSru/giphy.gif" width="200" alt="Happy Luffy" />
 </p>
