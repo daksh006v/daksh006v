@@ -73,5 +73,5 @@ My approach to development is a mix of strategic thinking and raw creativity. Wh
 </p>
 
 <p align="center">
-  <img src="[[https://media.giphy.com/media/1W40UWS9peSru/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZ6enM2dWQxcWFrMnU3ZHZyNjk3dWtvMmhoMjduaDQyd2ppOXZiMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T7Qx28nEdo9NK/giphy.gif)](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2tzZjAzcWJwZTUyNjcxMmp3amMydmE3bmMycTVsODdhdTNvenNsZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tuCFp8rod0x3O/giphy.gif)" width="200" alt="Happy Luffy" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2tzZjAzcWJwZTUyNjcxMmp3amMydmE3bmMycTVsODdhdTNvenNsZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tuCFp8rod0x3O/giphy.gif" width="200" alt="Happy Luffy" />
 </p>
