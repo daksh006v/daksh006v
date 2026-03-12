@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=transparent&color=00b4d8&height=120&section=header&text=Daksh%20Bajaniya&fontSize=70&animation=fadeIn" alt="Daksh Bajaniya" />
+  <img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=700&size=45&pause=2000&color=00B4D8&center=true&vCenter=true&width=800&height=80&lines=DAKSH+BAJANIYA" alt="Daksh Bajaniya" />
   
   <h2><em>"Living life of a strawhat with my own ninjaway"</em> 🥷🏴‍☠️</h2>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Bridging+Design+and+Logic;Creative+Thinker;Code+is+Art" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Bridging+Design+and+Logic;Creative+Thinker;Code+is+Art" alt="Typing Roles" />
   </a>
 </div>
 
