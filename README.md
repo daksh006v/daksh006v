@@ -71,12 +71,14 @@
 
 ## 🏴‍☠️ Bounties I’m Chasing
 
-<table width="100%">
+<div align="center">
+
+<table width="80%">
 <tr>
 
 <td width="50%" valign="top" align="left">
 
-🔹 <b>Draft16</b><br/><br/>
+🔹 <b><u>Draft16</u></b><br/>
 A focused workspace for writers<br/>
 Built for deep, distraction-free thinking
 
@@ -84,7 +86,7 @@ Built for deep, distraction-free thinking
 
 <td width="50%" valign="top" align="left">
 
-🔹 <b>Pincode Explorer</b><br/><br/>
+🔹 <b><u>Pincode Explorer</u></b><br/>
 Search + API system<br/>
 Built for real-world data scale
 
@@ -96,7 +98,7 @@ Built for real-world data scale
 
 <td width="50%" valign="top" align="left">
 
-🔹 <b>StudyFlow AI</b><br/><br/>
+🔹 <b><u>StudyFlow AI</u></b><br/>
 Interactive learning system<br/>
 Built to make studying structured
 
@@ -104,7 +106,7 @@ Built to make studying structured
 
 <td width="50%" valign="top" align="left">
 
-🔹 <b>UI Clone Projects</b><br/><br/>
+🔹 <b><u>UI Clone Projects</u></b><br/>
 6 websites recreated with HTML & CSS<br/>
 Built to master layouts & design precision
 
@@ -112,6 +114,8 @@ Built to master layouts & design precision
 
 </tr>
 </table>
+
+</div>
 
 ### 📈 Grand Line Analytics
 
