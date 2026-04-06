@@ -101,23 +101,31 @@
 <table align="center" width="95%">
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### ⚔️ Draft16  
+<a href="https://github.com/daksh006v/draft16">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daksh006v&repo=draft16&theme=dark&border_radius=10" />
+</a>
+
+<br/>
+
+<b>⚔️ Draft16</b><br/>
 <sub>Focused writing workspace for deep thinking</sub><br/>
-<sub>Built to eliminate noise and enable creativity</sub><br/><br/>
-
-<img src="https://img.shields.io/badge/Stack-MERN-0A0A0A?style=flat-square" />
+<sub>Built to eliminate noise and enable creativity</sub>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### 🌍 Pincode Explorer  
+<a href="https://github.com/daksh006v/fullstack-project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daksh006v&repo=fullstack-project&theme=dark&border_radius=10" />
+</a>
+
+<br/>
+
+<b>🌍 Pincode Explorer</b><br/>
 <sub>Scalable search + API system</sub><br/>
-<sub>Built for handling real-world structured data</sub><br/><br/>
-
-<img src="https://img.shields.io/badge/API-REST-blue?style=flat-square" />
+<sub>Built for real-world structured data</sub>
 
 </td>
 
@@ -125,23 +133,31 @@
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### 🧠 StudyFlow AI  
+<a href="https://github.com/daksh006v/studyflow-ai">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daksh006v&repo=studyflow-ai&theme=dark&border_radius=10" />
+</a>
+
+<br/>
+
+<b>🧠 StudyFlow AI</b><br/>
 <sub>Interactive learning system</sub><br/>
-<sub>Transforms content into structured study flows</sub><br/><br/>
-
-<img src="https://img.shields.io/badge/AI-Learning-purple?style=flat-square" />
+<sub>Transforms content into structured flows</sub>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### 🎨 UI Clone Projects  
+<a href="https://github.com/daksh006v/sixWebSites">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daksh006v&repo=sixWebSites&theme=dark&border_radius=10" />
+</a>
+
+<br/>
+
+<b>🎨 UI Clone Projects</b><br/>
 <sub>6 websites recreated with HTML & CSS</sub><br/>
-<sub>Focused on layout precision and design mastery</sub><br/><br/>
-
-<img src="https://img.shields.io/badge/Frontend-HTML%20%2B%20CSS-orange?style=flat-square" />
+<sub>Focused on layout precision</sub>
 
 </td>
 
