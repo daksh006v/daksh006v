@@ -196,6 +196,17 @@ Focused on layout precision and pixel-accurate recreation.
 
 <br/>
 
+---
+
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2tzZjAzcWJwZTUyNjcxMmp3amMydmE3bmMycTVsODdhdTNvenNsZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tuCFp8rod0x3O/giphy.gif" width="160" alt="Luffy" />
+  <i>The Grand Line doesn't end here</i><br/>
+  <b>The best arcs are still being written.</b> 🏴‍☠️
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3owzW5c1tPq63MPmWk/giphy.gif" width="480" alt="Thousand Sunny sailing" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=daksh006v&color=00B4D8&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
