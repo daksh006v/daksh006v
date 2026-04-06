@@ -17,20 +17,15 @@
 
 ### 👨‍💻 Meet the Developer, Not Just the Code
 
-<table border="0">
-  <tr>
-    <td width="60%" valign="top">
-      <p><i>"I write code that feels like art—blending hard logic with raw creativity to build seamless digital experiences."</i> 🎨</p>
-      <p><b>The Build:</b> Fast, responsive applications that turn complex problems into simple, intuitive interfaces. 🚀</p>
-      <p><b>The Stack:</b> React • Vite • Node.js • MongoDB • Clean APIs • Pixel-perfect UIs ⚙️</p>
-      <p><b>The Vibe:</b> Strategic thinking meets the relentless determination of a ship's captain. Got a half-baked idea? Let’s make it real. 🤝</p>
-      <p><b>Off-Duty:</b> 🎧 Hip-hop • ♟️ Chess • 🧮 Math puzzles • 🌊 One Piece marathons</p>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/6mRA7NSBRS_pS/giphy.gif" width="100%" style="border-radius: 10px;" alt="Luffy Atmospheric GIF" />
-    </td>
-  </tr>
-</table>
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/6mRA7NSBRS_pS/giphy.gif" width="220" style="border-radius: 15px; margin-left: 20px;">
+
+* **The Vision:** Blending logic with creativity to build seamless digital art. 🎨
+* **The Stack:** React, Node.js, MongoDB, and Pixel-perfect UIs. ⚙️
+* **The Drive:** Strategic thinking with the grit of a ship's captain. 🏴‍☠️
+* **The Pursuit:** Currently architecting [Your Project/Novel Name]. 🌊
+* **Off-Duty:** Hip-hop 🎧 • Chess ♟️ • Math Puzzles 🧮 • One Piece 🍖
+
+<br clear="right"/>
 
 ---
 
