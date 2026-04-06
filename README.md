@@ -191,18 +191,6 @@ Focused on layout precision and pixel-accurate recreation.
 
 </td>
 
-<td width="50%" valign="top" align="center">
-
-<br/><br/>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daksh006v&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-<br/>
-
-> *Charting the course, one commit at a time* 🏴‍☠️
-
-</td>
-
 </tr>
 </table>
 
