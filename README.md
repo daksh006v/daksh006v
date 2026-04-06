@@ -52,6 +52,7 @@
 <td align="center" width="33%" valign="top">
 
 <b>🎨 Frontend & Design</b><br/>
+<br/>
 <i>Crafting intuitive UI/UX.</i><br/>
 
 <a href="https://skillicons.dev">
@@ -63,6 +64,7 @@
 <td align="center" width="33%" valign="top">
 
 <b>⚙️ Backend & Database</b><br/>
+<br/>
 <i>Architecting secure data flow.</i><br/>
 
 <a href="https://skillicons.dev">
@@ -76,6 +78,7 @@
 <td align="center" width="33%" valign="top">
 
 <b>🛠️ Tools & Cloud</b><br/>
+<br/>
 <i>Version control & deployment.</i><br/>
 
 <a href="https://skillicons.dev">
