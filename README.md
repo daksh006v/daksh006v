@@ -141,7 +141,7 @@ Built to master layouts & design precision
 
 </div>
 
-### 📈 Grand Line Analytics
+## 📈 Grand Line Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=daksh006v&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="GitHub Stats" />
@@ -149,10 +149,15 @@ Built to master layouts & design precision
   <img src="https://streak-stats.demolab.com/?user=daksh006v&theme=tokyonight&hide_border=true&background=0D1117" height="180" alt="Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=daksh006v&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophies" />
-</p>
+⚓ Building consistently, one system at a time  
+📈 Focused on real-world scalable projects  
+🔥 Currently pushing limits with every commit  
 
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daksh006v&show_icons=true&theme=tokyonight" />
+</p>
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2tzZjAzcWJwZTUyNjcxMmp3amMydmE3bmMycTVsODdhdTNvenNsZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tuCFp8rod0x3O/giphy.gif" width="200" alt="Happy Luffy" />
 </p>
