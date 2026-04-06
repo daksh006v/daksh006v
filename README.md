@@ -15,16 +15,27 @@
   <img src="https://avatars.githubusercontent.com/u/YOUR_USER_ID" height="150" width="150" style="border-radius:50%; border:4px solid #00B4D8;" alt="Daksh Bajaniya"/>
 </p> -->
 
+
 ### 👨‍💻 Meet the Developer
 
-<img align="right" src="https://res.cloudinary.com/dtz8xyzph/image/upload/v1775466375/Gemini_Generated_Image_t1r4nqt1r4nqt1r4_veclks.png" width="480" style="margin-left: 20px;">
+<img align="right" src="https://res.cloudinary.com/dtz8xyzph/image/upload/v1775466375/Gemini_Generated_Image_t1r4nqt1r4nqt1r4_veclks.png" width="420" style="margin-left: 20px;">
 
-* 💻 **Full Stack Developer** specializing in building with the **MERN Stack**.
-* 🎨 **Creative Thinker** bridging the gap between clean design and hard logic.
-* ⚙️ **Performance Focused** architecting scalable APIs and pixel-perfect UIs.
-* 🧠 **Problem Solver** actively sharpening skills in **DSA** and complex logic.
-* ♟️ **Strategist** who thrives on chess, math puzzles, and structured code.
-* 🏴‍☠️ **Strawhat Spirit** bringing a captain's determination to every digital build.
+* 💻 **Full Stack Developer** specializing in **MERN Stack**.
+<br/>
+
+* 🎨 **Creative Thinker** bridging **Design and Logic**.
+<br/>
+
+* ⚙️ **Performance Focused** on scalable **APIs and UIs**.
+<br/>
+
+* 🧠 **Problem Solver** actively grinding **DSA on LeetCode**.
+<br/>
+
+* ♟️ **Strategist** fueled by **Chess and Math Puzzles**.
+<br/>
+
+* 🏴‍☠️ **Strawhat Spirit** with a captain's **Determination**.
 
 <br clear="right"/>
 
