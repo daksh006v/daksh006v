@@ -10,58 +10,21 @@
 
 <br/>
 
+<!-- Optional Avatar (replace with your actual GitHub avatar URL if you want) -->
+<!-- <p align="center">
+  <img src="https://avatars.githubusercontent.com/u/YOUR_USER_ID" height="150" width="150" style="border-radius:50%; border:4px solid #00B4D8;" alt="Daksh Bajaniya"/>
+</p> -->
+
 ### 👨‍💻 Meet the Developer, Not Just the Code
 
 > *I write code that feels like art—blending hard logic with raw creativity to build seamless digital experiences.* 🎨
 
-**The Build:** I create fast, responsive applications that turn complex problems into simple, intuitive interfaces. 🚀
+**The Build:** Fast, responsive applications that turn complex problems into simple, intuitive interfaces. 🚀  
+**The Stack:** React • Vite • Node.js • MongoDB • Clean APIs • Pixel-perfect UIs ⚙️
 
-**The Stack:** React, Vite, Node.js, MongoDB. Clean APIs, smooth data flow, and pixels that snap perfectly into place. ⚙️
+**Off-Duty:** Bumping hip-hop 🎧 • Chess ♟️ • Math puzzles 🧮 • All-day One Piece marathons 🌊
 
-**Off-Duty:** Bumping hip-hop 🎧, plotting my next chess move ♟️, solving math puzzles 🧮, and literal all-day One Piece marathons. 🌊
-
-**The Vibe:** Strategic thinking meets the relentless determination of a ship's captain. Got a half-baked idea or a messy architectural problem? 💡
-
-**Let's turn it into something real.** 🤝
-
----
-
-### ⚡ The Arsenal
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <h3>🎨 Frontend & Design</h3>
-      <p><i>Crafting intuitive UI/UX.</i></p>
-      <br/>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,js,html,css,vite,figma&perline=3" alt="Frontend Stack" /></a>
-    </td>
-    <td align="center" width="33%">
-      <h3>⚙️ Backend & Database</h3>
-      <p><i>Architecting secure data flow.</i></p>
-      <br/>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=3" alt="Backend Stack" /></a><br><br>
-      <img src="https://img.shields.io/badge/REST_API-%23005B9F.svg?style=flat-square&logo=api&logoColor=white" alt="REST API" />
-    </td>
-    <td align="center" width="33%">
-      <h3>🛠️ Tools & Cloud</h3>
-      <p><i>Version control & deployment.</i></p>
-      <br/>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify&perline=3" alt="Tools Stack" /></a><br><br>
-      <img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat-square&logo=render&logoColor=white" alt="Render" />
-      <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=Cloudinary&logoColor=white" alt="Cloudinary" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 📈 Grand Line Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daksh006v&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daksh006v&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Top Languages" />
-</p>
+**The Vibe:** Strategic thinking meets the relentless determination of a ship's captain. Got a half-baked idea? Let’s make it real. 🤝
 
 ---
 
@@ -73,8 +36,54 @@
   <a href="https://x.com/daksh006v"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" /></a>
   <a href="https://www.youtube.com/@DakshBajaniya006"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" /></a>
   <a href="https://leetcode.com/u/V1Cl3w57IK/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://www.sololearn.com/en/profile/35626919"><img src="https://img.shields.io/badge/SoloLearn-141414?style=for-the-badge&logo=sololearn&logoColor=white" alt="SoloLearn" /></a>
   <a href="https://drive.google.com/file/d/1SoR_6Y1-MOp8bEhMlJeFXZv0RGv-fmI4/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" /></a>
+</p>
+
+---
+
+### ⚡ The Arsenal
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <h3>🎨 Frontend & Design</h3>
+      <p><i>Crafting intuitive UI/UX.</i></p>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,js,html,css,vite,figma&perline=3" alt="Frontend Stack" /></a>
+    </td>
+    <td align="center" width="33%">
+      <h3>⚙️ Backend & Database</h3>
+      <p><i>Architecting secure data flow.</i></p>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=3" alt="Backend Stack" /></a><br><br>
+      <img src="https://img.shields.io/badge/REST_API-%23005B9F.svg?style=flat-square&logo=api&logoColor=white" alt="REST API" />
+    </td>
+    <td align="center" width="33%">
+      <h3>🛠️ Tools & Cloud</h3>
+      <p><i>Version control & deployment.</i></p>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify&perline=3" alt="Tools Stack" /></a><br><br>
+      <img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat-square&logo=render&logoColor=white" alt="Render" />
+      <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=Cloudinary&logoColor=white" alt="Cloudinary" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🏴‍☠️ Bounties I’m Chasing (Featured Projects)
+
+<!-- Add your best 3–4 projects here with short descriptions and links -->
+
+---
+
+### 📈 Grand Line Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daksh006v&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daksh006v&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=daksh006v&theme=tokyonight&hide_border=true&background=0D1117" height="180" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=daksh006v&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophies" />
 </p>
 
 <p align="center">
