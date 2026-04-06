@@ -51,7 +51,7 @@
 
 <td align="center" width="33%" valign="top">
 
-<b>🎨 Frontend & Design</b><br/>
+<span style="font-size:16px; letter-spacing:0.3px;"><b>🎨 Frontend & Design</b></span><br/>
 <br/>
 <i>Crafting intuitive UI/UX.</i><br/>
 
@@ -63,7 +63,7 @@
 
 <td align="center" width="33%" valign="top">
 
-<b>⚙️ Backend & Database</b><br/>
+<span style="font-size:16px; letter-spacing:0.3px;"><b>⚙️ Backend & Database</b></span><br/>
 <br/>
 <i>Architecting secure data flow.</i><br/>
 
@@ -77,7 +77,7 @@
 
 <td align="center" width="33%" valign="top">
 
-<b>🛠️ Tools & Cloud</b><br/>
+<span style="font-size:16px; letter-spacing:0.3px;"><b>🛠️ Tools & Cloud</b></span><br/>
 <br/>
 <i>Version control & deployment.</i><br/>
 
