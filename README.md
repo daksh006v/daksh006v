@@ -17,13 +17,14 @@
 
 ### 👨‍💻 Meet the Developer
 
-<img align="right" src="https://res.cloudinary.com/dtz8xyzph/image/upload/v1775466375/Gemini_Generated_Image_t1r4nqt1r4nqt1r4_veclks.png" width="400" style="margin-left: 20px;">
+<img align="right" src="https://res.cloudinary.com/dtz8xyzph/image/upload/v1775466375/Gemini_Generated_Image_t1r4nqt1r4nqt1r4_veclks.png" width="480" style="margin-left: 20px;">
 
-* **The Vision:** Bridging Design and Logic with raw creativity. 🎨
-* **The Stack:** React • Node.js • MongoDB • Pixel-perfect UIs. ⚙️
-* **The Drive:** Navigating code with the grit of a ship's captain. 🏴‍☠️
-* **The Pursuit:** Architecting *2 Months — The barrier of the worlds*. 🌊
-* **Off-Duty:** 🎧 Hip-hop • ♟️ Chess • 🍖 One Piece
+* 💻 **Full Stack Developer** specializing in building with the **MERN Stack**.
+* 🎨 **Creative Thinker** bridging the gap between clean design and hard logic.
+* ⚙️ **Performance Focused** architecting scalable APIs and pixel-perfect UIs.
+* 🧠 **Problem Solver** actively sharpening skills in **DSA** and complex logic.
+* ♟️ **Strategist** who thrives on chess, math puzzles, and structured code.
+* 🏴‍☠️ **Strawhat Spirit** bringing a captain's determination to every digital build.
 
 <br clear="right"/>
 
