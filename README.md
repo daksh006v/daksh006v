@@ -71,21 +71,43 @@
 
 ## 🏴‍☠️ Bounties I’m Chasing
 
-### 🧠 Draft16
-> A focused workspace for writers  
-⚡ Built to eliminate noise and enable deep thinking  
+<table>
+<tr>
+<td width="50%">
 
----
+🧠 <b>Draft16</b><br/>
+<sub>A focused workspace for writers</sub><br/>
+⚡ <sub>Built for deep, distraction-free thinking</sub>
 
-### 🌍 Fullstack Pincode Explorer
-> Scalable search + API system  
-⚡ Built for handling real-world data efficiently  
+</td>
 
----
+<td width="50%">
 
-### 📊 StudyFlow AI
-> Turn courses into interactive learning systems  
-⚡ Built to make studying structured and engaging  
+🌍 <b>Pincode Explorer</b><br/>
+<sub>Search + API system</sub><br/>
+⚡ <sub>Built for real-world data scale</sub>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+📊 <b>StudyFlow AI</b><br/>
+<sub>Interactive learning system</sub><br/>
+⚡ <sub>Built to make studying structured</sub>
+
+</td>
+
+<td width="50%">
+
+🎨 <b>UI Clone Projects</b><br/>
+<sub>6 websites recreated with HTML & CSS</sub><br/>
+⚡ <sub>Built to master layouts & design precision</sub>
+
+</td>
+</tr>
+</table> 
 
 ### 📈 Grand Line Analytics
 
