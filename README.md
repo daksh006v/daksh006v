@@ -22,7 +22,7 @@
      align="right" 
      width="460"
       style="margin-top: 20px;"/>
-
+<br />
 - 💻 Full Stack Developer specializing in MERN Stack  
 - 🎨 Creative Thinker bridging Design and Logic  
 - ⚡ Performance focused on scalable APIs and UIs  
