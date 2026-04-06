@@ -93,26 +93,28 @@
 </tr>
 </table>
 
-## 🏴‍☠️ Bounties I’m Chasing
+## 🏴‍☠️ Bounties Completed
 
-<div align="center">
+<p align="center"><i>Projects I've built and shipped into the real world</i></p>
 
-<table width="80%">
+<br/>
+
+<table align="center" width="90%">
 <tr>
 
-<td width="50%" valign="top" align="left">
+<td width="50%" valign="top">
 
-🔹 <b><u>Draft16</u></b><br/>
-A focused workspace for writers<br/>
-Built for deep, distraction-free thinking
+### ⚔️ Draft16
+Focused writing workspace for deep thinking  
+Built to eliminate noise and enable creativity  
 
 </td>
 
-<td width="50%" valign="top" align="left">
+<td width="50%" valign="top">
 
-🔹 <b><u>Pincode Explorer</u></b><br/>
-Search + API system<br/>
-Built for real-world data scale
+### 🌍 Pincode Explorer
+Scalable search + API system  
+Built for handling real-world structured data  
 
 </td>
 
@@ -120,26 +122,24 @@ Built for real-world data scale
 
 <tr>
 
-<td width="50%" valign="top" align="left">
+<td width="50%" valign="top">
 
-🔹 <b><u>StudyFlow AI</u></b><br/>
-Interactive learning system<br/>
-Built to make studying structured
+### 🧠 StudyFlow AI
+Interactive learning system  
+Transforms content into structured study flows  
 
 </td>
 
-<td width="50%" valign="top" align="left">
+<td width="50%" valign="top">
 
-🔹 <b><u>UI Clone Projects</u></b><br/>
-6 websites recreated with HTML & CSS<br/>
-Built to master layouts & design precision
+### 🎨 UI Clone Projects
+6 websites recreated with HTML & CSS  
+Focused on layout precision and design mastery  
 
 </td>
 
 </tr>
 </table>
-
-</div>
 
 ## 📈 Grand Line Analytics
 
