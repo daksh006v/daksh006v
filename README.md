@@ -94,27 +94,30 @@
 </table>
 
 ## 🏴‍☠️ Bounties Completed
-
 <p align="center"><i>Projects I've built and shipped into the real world</i></p>
 
 <br/>
 
-<table align="center" width="90%">
+<table align="center" width="95%">
 <tr>
 
 <td width="50%" valign="top">
 
-### ⚔️ Draft16
-Focused writing workspace for deep thinking  
-Built to eliminate noise and enable creativity  
+### ⚔️ Draft16  
+<sub>Focused writing workspace for deep thinking</sub><br/>
+<sub>Built to eliminate noise and enable creativity</sub><br/><br/>
+
+<img src="https://img.shields.io/badge/Stack-MERN-0A0A0A?style=flat-square" />
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🌍 Pincode Explorer
-Scalable search + API system  
-Built for handling real-world structured data  
+### 🌍 Pincode Explorer  
+<sub>Scalable search + API system</sub><br/>
+<sub>Built for handling real-world structured data</sub><br/><br/>
+
+<img src="https://img.shields.io/badge/API-REST-blue?style=flat-square" />
 
 </td>
 
@@ -124,17 +127,21 @@ Built for handling real-world structured data
 
 <td width="50%" valign="top">
 
-### 🧠 StudyFlow AI
-Interactive learning system  
-Transforms content into structured study flows  
+### 🧠 StudyFlow AI  
+<sub>Interactive learning system</sub><br/>
+<sub>Transforms content into structured study flows</sub><br/><br/>
+
+<img src="https://img.shields.io/badge/AI-Learning-purple?style=flat-square" />
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🎨 UI Clone Projects
-6 websites recreated with HTML & CSS  
-Focused on layout precision and design mastery  
+### 🎨 UI Clone Projects  
+<sub>6 websites recreated with HTML & CSS</sub><br/>
+<sub>Focused on layout precision and design mastery</sub><br/><br/>
+
+<img src="https://img.shields.io/badge/Frontend-HTML%20%2B%20CSS-orange?style=flat-square" />
 
 </td>
 
