@@ -170,23 +170,44 @@ Focused on layout precision and pixel-accurate recreation.
 </tr>
 </table>
 
-## 📈 Grand Line Analytics
+## 📡 Grand Line Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daksh006v&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daksh006v&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com/?user=daksh006v&theme=tokyonight&hide_border=true&background=0D1117" height="180" alt="Streak" />
-</p>
+<table align="center" width="88%">
+<tr>
 
-⚓ Building consistently, one system at a time  
-📈 Focused on real-world scalable projects  
-🔥 Currently pushing limits with every commit  
+<td width="50%" valign="top">
+
+### 🧭 Right Now
+
+> **Building** — AURA, a notes-making web app
+> 
+> **Learning** — DSA & leveling up React
+> 
+> **Open to** — Internships · Freelance · Collaborations
+
+<br/>
+
+![Daksh's LeetCode stats](https://leetcard.jacoblin.cool/V1Cl3w57IK?theme=dark&font=Nunito&ext=activity)
+
+</td>
+
+<td width="50%" valign="top" align="center">
+
+<br/><br/>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daksh006v&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+<br/>
+
+> *Charting the course, one commit at a time* 🏴‍☠️
+
+</td>
+
+</tr>
+</table>
 
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daksh006v&show_icons=true&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2tzZjAzcWJwZTUyNjcxMmp3amMydmE3bmMycTVsODdhdTNvenNsZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tuCFp8rod0x3O/giphy.gif" width="200" alt="Happy Luffy" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2tzZjAzcWJwZTUyNjcxMmp3amMydmE3bmMycTVsODdhdTNvenNsZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tuCFp8rod0x3O/giphy.gif" width="160" alt="Luffy" />
 </p>
