@@ -46,46 +46,48 @@
 
 ### ⚡ The Arsenal
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="33%" valign="top">
+<table align="center" width="90%">
+<tr>
 
-      <b>🎨 Frontend & Design</b><br/>
-      <i>Crafting intuitive UI/UX.</i><br/><br/>
+<td align="center" width="33%" valign="top">
 
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,js,html,css,vite,figma&perline=3" />
-      </a>
+<b>🎨 Frontend & Design</b><br/>
+<i>Crafting intuitive UI/UX.</i><br/>
 
-    </td>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,vite,figma&perline=3" />
+</a>
 
-    <td align="center" width="33%" valign="top">
+</td>
 
-      <b>⚙️ Backend & Database</b><br/>
-      <i>Architecting secure data flow.</i><br/><br/>
+<td align="center" width="33%" valign="top">
 
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=3" />
-      </a><br/><br/>
+<b>⚙️ Backend & Database</b><br/>
+<i>Architecting secure data flow.</i><br/>
 
-      <img src="https://img.shields.io/badge/REST_API-%23005B9F.svg?style=flat-square&logo=api&logoColor=white" />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=3" />
+</a><br/>
 
-    </td>
+<img src="https://img.shields.io/badge/REST_API-%23005B9F.svg?style=flat-square&logo=api&logoColor=white" />
 
-    <td align="center" width="33%" valign="top">
+</td>
 
-      <b>🛠️ Tools & Cloud</b><br/>
-      <i>Version control & deployment.</i><br/><br/>
+<td align="center" width="33%" valign="top">
 
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify&perline=3" />
-      </a><br/><br/>
+<b>🛠️ Tools & Cloud</b><br/>
+<i>Version control & deployment.</i><br/>
 
-      <img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat-square&logo=render&logoColor=white" />
-      <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=Cloudinary&logoColor=white" />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify&perline=3" />
+</a><br/>
 
-    </td>
-  </tr>
+<img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat-square&logo=render&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=Cloudinary&logoColor=white" />
+
+</td>
+
+</tr>
 </table>
 
 ## 🏴‍☠️ Bounties I’m Chasing
