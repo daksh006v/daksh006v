@@ -15,18 +15,17 @@
   <img src="https://avatars.githubusercontent.com/u/YOUR_USER_ID" height="150" width="150" style="border-radius:50%; border:4px solid #00B4D8;" alt="Daksh Bajaniya"/>
 </p> -->
 
-### 👨‍💻 Meet the Developer, Not Just the Code
+### 👨‍💻 Meet the Developer
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/6mRA7NSBRS_pS/giphy.gif" width="220" style="border-radius: 15px; margin-left: 20px;">
+<img align="right" src="https://res.cloudinary.com/dtz8xyzph/image/upload/v1775466375/Gemini_Generated_Image_t1r4nqt1r4nqt1r4_veclks.png" width="300" style="border-radius: 12px; margin-left: 20px;">
 
-* **The Vision:** Blending logic with creativity to build seamless digital art. 🎨
-* **The Stack:** React, Node.js, MongoDB, and Pixel-perfect UIs. ⚙️
-* **The Drive:** Strategic thinking with the grit of a ship's captain. 🏴‍☠️
-* **The Pursuit:** Currently architecting [Your Project/Novel Name]. 🌊
-* **Off-Duty:** Hip-hop 🎧 • Chess ♟️ • Math Puzzles 🧮 • One Piece 🍖
+* **The Vision:** Blending **hard logic** with **raw creativity** to build seamless digital art. 🎨
+* **The Stack:** Crafting with **React**, **Node.js**, **MongoDB**, and **Pixel-perfect UIs**. ⚙️
+* **The Drive:** Navigating code with the grit of a ship's captain. 🏴‍☠️
+* **The Pursuit:** Currently architecting **2 Months — The barrier of the worlds between us**. 🌊
+* **Off-Duty:** Hip-hop 🎧 • Chess ♟️ • One Piece marathons 🍖
 
 <br clear="right"/>
-
 ---
 
 ### 🤝 Let's Connect
