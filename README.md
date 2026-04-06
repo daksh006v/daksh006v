@@ -1,4 +1,4 @@
-<h1 align="center">DAKSH BAJANIYA</h1>
+<img width="1920" height="4355" alt="image" src="https://github.com/user-attachments/assets/9f8d1366-8e68-4f55-acb0-84d40f7faf17" /><h1 align="center">DAKSH BAJANIYA</h1>
 
 <h3 align="center"><em>"Living life of a strawhat with my own ninjaway"</em> 🥷🏴‍☠️</h3>
 
@@ -94,75 +94,81 @@
 </table>
 
 ## 🏴‍☠️ Bounties Completed
-<p align="center"><i>Projects I've built and shipped into the real world</i></p>
+<p align="center"><i>Projects shipped into the real world</i></p>
 
 <br/>
 
-<!-- 🔹 CLEAN SUMMARY (READABLE) -->
-
-<table align="center" width="85%">
+<table align="center" width="88%">
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding: 16px;">
 
-### ⚔️ Draft16  
-Focused writing workspace for deep thinking  
-Built to eliminate noise and enable creativity  
+### ✍️ Draft16
+Distraction-free writing workspace for writers & lyricists.
+Built with a real-time editor, drag-and-drop, and media storage.
+
+![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=Cloudinary&logoColor=white)
+
+<a href="https://draft16.vercel.app/">**Live ↗**</a> · <a href="https://github.com/daksh006v/draft16">Repo →</a>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding: 16px;">
 
-### 🌍 Pincode Explorer  
-Scalable search + API system  
-Built for real-world structured data  
+### 🔍 PinScope
+Pincode-based data explorer with structured search & REST API.
+Built for real-world structured data with charts & dark mode.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-FF6384?style=flat-square&logoColor=white)
+
+<a href="https://fullstack-project-ten-lovat.vercel.app/">**Live ↗**</a> · <a href="https://github.com/daksh006v/fullstack-project">Repo →</a>
 
 </td>
 
 </tr>
-
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding: 16px;">
 
-### 🧠 StudyFlow AI  
-Interactive learning system  
-Transforms content into structured study flows  
+### 🧠 StudyFlow AI
+Transforms content into interactive study plans with queues,
+concept maps & progress tracking — powered by Gemini AI.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+<a href="https://github.com/daksh006v/studyflow-ai">Repo →</a>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding: 16px;">
 
-### 🎨 UI Clone Projects  
-6 websites recreated with HTML & CSS  
-Focused on layout precision  
+### 🎨 UI Clone Projects
+6 production websites rebuilt with pure HTML & CSS.
+Focused on layout precision and pixel-accurate recreation.
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+<a href="https://forme123.netlify.app/">Forme</a> ·
+<a href="https://pepsiclone123.netlify.app/">Pepsi</a> ·
+<a href="https://loftorbital123.netlify.app/">LoftOrbital</a> ·
+<a href="https://xrpledger123.netlify.app/">XRP Ledger</a> ·
+<a href="https://dydx123.netlify.app/">dYdX</a> ·
+<a href="https://bright-salamander-ca9508.netlify.app/">Airbnb</a>
 
 </td>
 
 </tr>
 </table>
-
-<br/><br/>
-
-<!-- 🔥 DYNAMIC CARDS (IMPACT) -->
-
-<p align="center">
-  <a href="https://github.com/daksh006v/draft16">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=daksh006v&repo=draft16&theme=dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/daksh006v/fullstack-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=daksh006v&repo=fullstack-project&theme=dark&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/daksh006v/studyflow-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=daksh006v&repo=studyflow-ai&theme=dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/daksh006v/sixWebSites">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=daksh006v&repo=sixWebSites&theme=dark&hide_border=true" />
-  </a>
-</p>
 
 ## 📈 Grand Line Analytics
 
