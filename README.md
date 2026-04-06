@@ -22,8 +22,6 @@
 <tr>
 <td width="60%">
 
-### 🧑‍💻 Meet the Developer
-
 - 💻 Full Stack Developer specializing in MERN Stack  
 - 🎨 Creative Thinker bridging Design and Logic  
 - ⚡ Performance Focused on scalable APIs and UIs  
