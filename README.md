@@ -73,9 +73,23 @@
 
 ### 🏴‍☠️ Bounties I’m Chasing (Featured Projects)
 
-<!-- Add your best 3–4 projects here with short descriptions and links -->
+## 🏴‍☠️ Bounties I’m Chasing
+
+### 🧠 Draft16
+> A focused workspace for writers  
+⚡ Built to eliminate noise and enable deep thinking  
 
 ---
+
+### 🌍 Fullstack Pincode Explorer
+> Scalable search + API system  
+⚡ Built for handling real-world data efficiently  
+
+---
+
+### 📊 StudyFlow AI
+> Turn courses into interactive learning systems  
+⚡ Built to make studying structured and engaging  
 
 ### 📈 Grand Line Analytics
 
