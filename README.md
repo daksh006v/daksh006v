@@ -204,7 +204,7 @@ Focused on layout precision and pixel-accurate recreation.
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3owzW5c1tPq63MPmWk/giphy.gif" width="480" alt="Thousand Sunny sailing" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2FmbzRidW9zN2ZicGE2dnYzcnhoeDJ4MHY3YnM4b2RzbjkwMDVuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LvtxIRg1Ly96E/giphy.gif" width="200" alt="Thousand Sunny sailing" />
 </p>
 
 <p align="center">
