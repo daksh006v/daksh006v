@@ -18,18 +18,25 @@
 
 ### 👨‍💻 Meet the Developer
 
-<p align="left">
-  <img align="right" src="https://res.cloudinary.com/dtz8xyzph/image/upload/v1775466375/Gemini_Generated_Image_t1r4nqt1r4nqt1r4_veclks.png" width="420" style="margin-left: 20px;">
-  
-  • 💻 <b>Full Stack Developer</b> specializing in <b>MERN Stack</b>.<br/><br/>
-  • 🎨 <b>Creative Thinker</b> bridging <b>Design and Logic</b>.<br/><br/>
-  • ⚙️ <b>Performance Focused</b> on scalable <b>APIs and UIs</b>.<br/><br/>
-  • 🧠 <b>Problem Solver</b> actively grinding <b>DSA on LeetCode</b>.<br/><br/>
-  • ♟️ <b>Strategist</b> fueled by <b>Chess and Math Puzzles</b>.<br/><br/>
-  • 🏴‍☠️ <b>Strawhat Spirit</b> with a captain's <b>Determination</b>.
-</p>
+<table>
+<tr>
+<td width="60%">
 
-<br clear="right"/>
+### 🧑‍💻 Meet the Developer
+
+- 💻 Full Stack Developer specializing in MERN Stack  
+- 🎨 Creative Thinker bridging Design and Logic  
+- ⚡ Performance Focused on scalable APIs and UIs  
+- 🧠 Problem Solver actively grinding DSA on LeetCode  
+- ♟️ Strategist fueled by Chess and Math Puzzles  
+
+</td>
+
+<td width="40%">
+<img src="https://res.cloudinary.com/dtz8xyzph/image/upload/v1775466375/Gemini_Generated_Image_t1r4nqt1r4nqt1r4_veclks.png" width="250"/>
+</td>
+</tr>
+</table>
 
 <br clear="right"/>
 
