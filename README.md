@@ -16,26 +16,18 @@
 </p> -->
 
 
-### 👨‍💻 Meet the Developer
+## 🧑‍💻 Meet the Developer
 
-<table>
-<tr>
-<td width="60%">
+<img src="https://res.cloudinary.com/dtz8xyzph/image/upload/v1775466375/Gemini_Generated_Image_t1r4nqt1r4nqt1r4_veclks.png" 
+     align="right" 
+     width="280" />
 
 - 💻 Full Stack Developer specializing in MERN Stack  
 - 🎨 Creative Thinker bridging Design and Logic  
-- ⚡ Performance Focused on scalable APIs and UIs  
-- 🧠 Problem Solver actively grinding DSA on LeetCode  
-- ♟️ Strategist fueled by Chess and Math Puzzles  
+- ⚡ Performance focused on scalable APIs and UIs  
 
-</td>
-
-<td width="40%">
-<img src="https://res.cloudinary.com/dtz8xyzph/image/upload/v1775466375/Gemini_Generated_Image_t1r4nqt1r4nqt1r4_veclks.png" width="250"/>
-</td>
-</tr>
-</table>
-
+- 🧠 Problem solver actively grinding DSA  
+- ♟️ Strategist with a strong analytical mindset  
 <br clear="right"/>
 
 ### 🤝 Let's Connect
