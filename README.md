@@ -18,28 +18,18 @@
 
 ### 👨‍💻 Meet the Developer
 
-<table border="0">
-  <tr>
-    <td valign="top">
-      <ul>
-        <li>💻 <b>Full Stack Developer</b> specializing in <b>MERN Stack</b>.</li>
-        <br/>
-        <li>🎨 <b>Creative Thinker</b> bridging <b>Design and Logic</b>.</li>
-        <br/>
-        <li>⚙️ <b>Performance Focused</b> on scalable <b>APIs and UIs</b>.</li>
-        <br/>
-        <li>🧠 <b>Problem Solver</b> actively grinding <b>DSA on LeetCode</b>.</li>
-        <br/>
-        <li>♟️ <b>Strategist</b> fueled by <b>Chess and Math Puzzles</b>.</li>
-        <br/>
-        <li>🏴‍☠️ <b>Strawhat Spirit</b> with a captain's <b>Determination</b>.</li>
-      </ul>
-    </td>
-    <td valign="top" align="right">
-      <img src="https://res.cloudinary.com/dtz8xyzph/image/upload/v1775466375/Gemini_Generated_Image_t1r4nqt1r4nqt1r4_veclks.png" width="440" style="margin-left: 20px;">
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img align="right" src="https://res.cloudinary.com/dtz8xyzph/image/upload/v1775466375/Gemini_Generated_Image_t1r4nqt1r4nqt1r4_veclks.png" width="420" style="margin-left: 20px;">
+  
+  • 💻 <b>Full Stack Developer</b> specializing in <b>MERN Stack</b>.<br/><br/>
+  • 🎨 <b>Creative Thinker</b> bridging <b>Design and Logic</b>.<br/><br/>
+  • ⚙️ <b>Performance Focused</b> on scalable <b>APIs and UIs</b>.<br/><br/>
+  • 🧠 <b>Problem Solver</b> actively grinding <b>DSA on LeetCode</b>.<br/><br/>
+  • ♟️ <b>Strategist</b> fueled by <b>Chess and Math Puzzles</b>.<br/><br/>
+  • 🏴‍☠️ <b>Strawhat Spirit</b> with a captain's <b>Determination</b>.
+</p>
+
+<br clear="right"/>
 
 <br clear="right"/>
 
