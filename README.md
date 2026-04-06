@@ -20,7 +20,6 @@
 <table border="0">
   <tr>
     <td width="60%" valign="top">
-      <h3>👨‍💻 Meet the Developer, Not Just the Code</h3>
       <p><i>"I write code that feels like art—blending hard logic with raw creativity to build seamless digital experiences."</i> 🎨</p>
       <p><b>The Build:</b> Fast, responsive applications that turn complex problems into simple, intuitive interfaces. 🚀</p>
       <p><b>The Stack:</b> React • Vite • Node.js • MongoDB • Clean APIs • Pixel-perfect UIs ⚙️</p>
