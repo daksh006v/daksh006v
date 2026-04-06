@@ -31,7 +31,7 @@
 - ♟️ Strategist with a strong analytical mindset  
 <br clear="right"/>
 
-### 🤝 Let's Connect
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="mailto:daksh006v@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
