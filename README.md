@@ -21,19 +21,18 @@
 <img align="right" src="https://res.cloudinary.com/dtz8xyzph/image/upload/v1775466375/Gemini_Generated_Image_t1r4nqt1r4nqt1r4_veclks.png" width="420" style="margin-left: 20px;">
 
 * 💻 **Full Stack Developer** specializing in **MERN Stack**.
-<br/>
 
 * 🎨 **Creative Thinker** bridging **Design and Logic**.
-<br/>
+
 
 * ⚙️ **Performance Focused** on scalable **APIs and UIs**.
-<br/>
+
 
 * 🧠 **Problem Solver** actively grinding **DSA on LeetCode**.
-<br/>
+
 
 * ♟️ **Strategist** fueled by **Chess and Math Puzzles**.
-<br/>
+
 
 * 🏴‍☠️ **Strawhat Spirit** with a captain's **Determination**.
 
