@@ -48,23 +48,42 @@
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="33%">
-      <h3>🎨 Frontend & Design</h3>
-      <p><i>Crafting intuitive UI/UX.</i></p>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,js,html,css,vite,figma&perline=3" alt="Frontend Stack" /></a>
+    <td align="center" width="33%" valign="top">
+
+      <b>🎨 Frontend & Design</b><br/>
+      <i>Crafting intuitive UI/UX.</i><br/><br/>
+
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,js,html,css,vite,figma&perline=3" />
+      </a>
+
     </td>
-    <td align="center" width="33%">
-      <h3>⚙️ Backend & Database</h3>
-      <p><i>Architecting secure data flow.</i></p>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=3" alt="Backend Stack" /></a><br><br>
-      <img src="https://img.shields.io/badge/REST_API-%23005B9F.svg?style=flat-square&logo=api&logoColor=white" alt="REST API" />
+
+    <td align="center" width="33%" valign="top">
+
+      <b>⚙️ Backend & Database</b><br/>
+      <i>Architecting secure data flow.</i><br/><br/>
+
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=3" />
+      </a><br/><br/>
+
+      <img src="https://img.shields.io/badge/REST_API-%23005B9F.svg?style=flat-square&logo=api&logoColor=white" />
+
     </td>
-    <td align="center" width="33%">
-      <h3>🛠️ Tools & Cloud</h3>
-      <p><i>Version control & deployment.</i></p>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify&perline=3" alt="Tools Stack" /></a><br><br>
-      <img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat-square&logo=render&logoColor=white" alt="Render" />
-      <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=Cloudinary&logoColor=white" alt="Cloudinary" />
+
+    <td align="center" width="33%" valign="top">
+
+      <b>🛠️ Tools & Cloud</b><br/>
+      <i>Version control & deployment.</i><br/><br/>
+
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify&perline=3" />
+      </a><br/><br/>
+
+      <img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat-square&logo=render&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=Cloudinary&logoColor=white" />
+
     </td>
   </tr>
 </table>
