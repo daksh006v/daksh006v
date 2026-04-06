@@ -20,7 +20,7 @@
 
 <img src="https://res.cloudinary.com/dtz8xyzph/image/upload/v1775466375/Gemini_Generated_Image_t1r4nqt1r4nqt1r4_veclks.png" 
      align="right" 
-     width="500" />
+     width="460" />
 
 - 💻 Full Stack Developer specializing in MERN Stack  
 - 🎨 Creative Thinker bridging Design and Logic  
