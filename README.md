@@ -73,41 +73,43 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-🧠 <b>Draft16</b><br/>
+<b>Draft16</b><br/>
 <sub>A focused workspace for writers</sub><br/>
-⚡ <sub>Built for deep, distraction-free thinking</sub>
+<sub>Built for deep, distraction-free thinking</sub>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-🌍 <b>Pincode Explorer</b><br/>
+<b>Pincode Explorer</b><br/>
 <sub>Search + API system</sub><br/>
-⚡ <sub>Built for real-world data scale</sub>
+<sub>Built for real-world data scale</sub>
 
 </td>
 </tr>
+
+<tr><td colspan="2"><br/><br/></td></tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-📊 <b>StudyFlow AI</b><br/>
+<b>StudyFlow AI</b><br/>
 <sub>Interactive learning system</sub><br/>
-⚡ <sub>Built to make studying structured</sub>
+<sub>Built to make studying structured</sub>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-🎨 <b>UI Clone Projects</b><br/>
+<b>UI Clone Projects</b><br/>
 <sub>6 websites recreated with HTML & CSS</sub><br/>
-⚡ <sub>Built to master layouts & design precision</sub>
+<sub>Built to master layouts & design precision</sub>
 
 </td>
 </tr>
-</table> 
+</table>
 
 ### 📈 Grand Line Analytics
 
