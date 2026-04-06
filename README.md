@@ -18,7 +18,7 @@
 
 ### 👨‍💻 Meet the Developer
 
-<img align="right" src="https://res.cloudinary.com/dtz8xyzph/image/upload/v1775466375/Gemini_Generated_Image_t1r4nqt1r4nqt1r4_veclks.png" width="420" style="margin-left: 20px;">
+<img align="right" src="https://res.cloudinary.com/dtz8xyzph/image/upload/v1775466375/Gemini_Generated_Image_t1r4nqt1r4nqt1r4_veclks.png" width="500" style="margin-left: 20px;">
 
 * 💻 **Full Stack Developer** specializing in **MERN Stack**.
 
