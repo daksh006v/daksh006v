@@ -71,43 +71,45 @@
 
 ## 🏴‍☠️ Bounties I’m Chasing
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
 
-<b>Draft16</b><br/>
-<sub>A focused workspace for writers</sub><br/>
-<sub>Built for deep, distraction-free thinking</sub>
+<td width="50%" valign="top" align="left">
+
+🔹 <b>Draft16</b><br/><br/>
+A focused workspace for writers<br/>
+Built for deep, distraction-free thinking
+
+</td>
+
+<td width="50%" valign="top" align="left">
+
+🔹 <b>Pincode Explorer</b><br/><br/>
+Search + API system<br/>
+Built for real-world data scale
 
 </td>
 
-<td width="50%" valign="top">
-
-<b>Pincode Explorer</b><br/>
-<sub>Search + API system</sub><br/>
-<sub>Built for real-world data scale</sub>
-
-</td>
 </tr>
 
-<tr><td colspan="2"><br/><br/></td></tr>
-
 <tr>
-<td width="50%" valign="top">
 
-<b>StudyFlow AI</b><br/>
-<sub>Interactive learning system</sub><br/>
-<sub>Built to make studying structured</sub>
+<td width="50%" valign="top" align="left">
+
+🔹 <b>StudyFlow AI</b><br/><br/>
+Interactive learning system<br/>
+Built to make studying structured
+
+</td>
+
+<td width="50%" valign="top" align="left">
+
+🔹 <b>UI Clone Projects</b><br/><br/>
+6 websites recreated with HTML & CSS<br/>
+Built to master layouts & design precision
 
 </td>
 
-<td width="50%" valign="top">
-
-<b>UI Clone Projects</b><br/>
-<sub>6 websites recreated with HTML & CSS</sub><br/>
-<sub>Built to master layouts & design precision</sub>
-
-</td>
 </tr>
 </table>
 
