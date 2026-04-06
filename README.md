@@ -1,4 +1,4 @@
-<img width="1920" height="4355" alt="image" src="https://github.com/user-attachments/assets/9f8d1366-8e68-4f55-acb0-84d40f7faf17" /><h1 align="center">DAKSH BAJANIYA</h1>
+<h1 align="center">DAKSH BAJANIYA</h1>
 
 <h3 align="center"><em>"Living life of a strawhat with my own ninjaway"</em> 🥷🏴‍☠️</h3>
 
