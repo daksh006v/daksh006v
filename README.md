@@ -98,34 +98,24 @@
 
 <br/>
 
-<table align="center" width="95%">
+<!-- 🔹 CLEAN SUMMARY (READABLE) -->
+
+<table align="center" width="85%">
 <tr>
 
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
-<a href="https://github.com/daksh006v/draft16">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daksh006v&repo=draft16&theme=dark&border_radius=10" />
-</a>
-
-<br/>
-
-<b>⚔️ Draft16</b><br/>
-<sub>Focused writing workspace for deep thinking</sub><br/>
-<sub>Built to eliminate noise and enable creativity</sub>
+### ⚔️ Draft16  
+Focused writing workspace for deep thinking  
+Built to eliminate noise and enable creativity  
 
 </td>
 
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
-<a href="https://github.com/daksh006v/fullstack-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daksh006v&repo=fullstack-project&theme=dark&border_radius=10" />
-</a>
-
-<br/>
-
-<b>🌍 Pincode Explorer</b><br/>
-<sub>Scalable search + API system</sub><br/>
-<sub>Built for real-world structured data</sub>
+### 🌍 Pincode Explorer  
+Scalable search + API system  
+Built for real-world structured data  
 
 </td>
 
@@ -133,36 +123,46 @@
 
 <tr>
 
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
-<a href="https://github.com/daksh006v/studyflow-ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daksh006v&repo=studyflow-ai&theme=dark&border_radius=10" />
-</a>
-
-<br/>
-
-<b>🧠 StudyFlow AI</b><br/>
-<sub>Interactive learning system</sub><br/>
-<sub>Transforms content into structured flows</sub>
+### 🧠 StudyFlow AI  
+Interactive learning system  
+Transforms content into structured study flows  
 
 </td>
 
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
-<a href="https://github.com/daksh006v/sixWebSites">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daksh006v&repo=sixWebSites&theme=dark&border_radius=10" />
-</a>
-
-<br/>
-
-<b>🎨 UI Clone Projects</b><br/>
-<sub>6 websites recreated with HTML & CSS</sub><br/>
-<sub>Focused on layout precision</sub>
+### 🎨 UI Clone Projects  
+6 websites recreated with HTML & CSS  
+Focused on layout precision  
 
 </td>
 
 </tr>
 </table>
+
+<br/><br/>
+
+<!-- 🔥 DYNAMIC CARDS (IMPACT) -->
+
+<p align="center">
+  <a href="https://github.com/daksh006v/draft16">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=daksh006v&repo=draft16&theme=dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/daksh006v/fullstack-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=daksh006v&repo=fullstack-project&theme=dark&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/daksh006v/studyflow-ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=daksh006v&repo=studyflow-ai&theme=dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/daksh006v/sixWebSites">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=daksh006v&repo=sixWebSites&theme=dark&hide_border=true" />
+  </a>
+</p>
 
 ## 📈 Grand Line Analytics
 
