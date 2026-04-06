@@ -69,10 +69,6 @@
   </tr>
 </table>
 
----
-
-### 🏴‍☠️ Bounties I’m Chasing (Featured Projects)
-
 ## 🏴‍☠️ Bounties I’m Chasing
 
 ### 🧠 Draft16
