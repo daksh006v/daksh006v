@@ -7,7 +7,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Bridging+Design+and+Logic;Creative+Thinker;Code+is+Art" alt="Typing Roles" />
   </a>
 </div>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=daksh006v&color=00B4D8&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p>
 <br/>
 
 <!-- Optional Avatar (replace with your actual GitHub avatar URL if you want) -->
@@ -207,6 +209,4 @@ Focused on layout precision and pixel-accurate recreation.
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2FmbzRidW9zN2ZicGE2dnYzcnhoeDJ4MHY3YnM4b2RzbjkwMDVuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LvtxIRg1Ly96E/giphy.gif" width="200" alt="Thousand Sunny sailing" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=daksh006v&color=00B4D8&style=flat-square&label=Profile+Views" alt="Profile views" />
-</p>
+
