@@ -95,7 +95,7 @@
 </tr>
 </table>
 
-## 🏴‍☠️ Bounties Completed
+ <!--## 🏴‍☠️ Bounties Completed
 <p align="center"><i>Projects shipped into the real world</i></p>
 
 <br/>
@@ -170,7 +170,7 @@ Focused on layout precision and pixel-accurate recreation.
 </td>
 
 </tr>
-</table>
+</table> -->
 
 ## 📡 Grand Line Analytics
 
